@@ -16,8 +16,12 @@
     "responces": ["I'm Kerriea Assistant", "My name is Kerriea Assistant, the assistant of Jared", "Kerriea Assistant", "I am Kerriea Assistant"]
     },
     {"tag": "shop",
-    "pattern": ["I'd like to buy something", "what are your products or services?", "what would you recommend", "what are you selling?"],
+    "pattern": ["I'd like to buy something", "what are your products or services?", "what would you recommend", "what are you selling?", "what do you offer"],
     "responces": ["Kerriea offers Data Science Consultancy services, development of AI systems and use of AI and machine Learning to solve different business and real world problems."]
+    },
+    {"tag": "hours",
+    "pattern": ["when are you guys open?", "what are your hours", "hours of operation", "active hours", "At what time are you active?"],
+    "responces": ["24/7"]
     },
     {"tag": "greetings",
     "pattern": [],
