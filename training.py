@@ -4,6 +4,7 @@ import json
 import pickle
 import nltk
 import tensorflow
+
 from nltk.stem import WordNetLemmatizer
 from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
@@ -28,4 +29,5 @@ for intent in intents["intents"]:
 
 words = [lemmatizer.lemmatize(word) for word in words if word not in ignore_letters]
 words = sorted(set(words))
+
 print(words)
