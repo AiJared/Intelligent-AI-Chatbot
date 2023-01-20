@@ -1,5 +1,26 @@
 {"intents": [
     {"tag": "greetings",
     "pattern": ["hello", "hey", "hi", "what's up?", "greetings", "good day", "how is ti going?"],
-    "responces": ["hello!", "hi!", "hi!, what can I do for you?"]}
+    "responces": ["Hello!", "Hi!", "Hi!, what can I do for you?", "What can I do for you?"]
+    },
+    {"tag": "goodbye",
+    "pattern": ["cya", "see you later", "later", "Am leaving now", "see ya", "bye", "have a good day", "see you", "cao"],
+    "responces": ["Sad to see you go: (", "Talk to you later", "Goodbye!", "Bye!"]
+    },
+    {"tag": "age",
+    "pattern": [],
+    "responces": []
+    },
+    {"tag": "greetings",
+    "pattern": [],
+    "responces": []
+    },
+    {"tag": "greetings",
+    "pattern": [],
+    "responces": []
+    },
+    {"tag": "greetings",
+    "pattern": [],
+    "responces": []
+    }
 ]}
