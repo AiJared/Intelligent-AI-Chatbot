@@ -13,11 +13,11 @@
     },
     {"tag": "name",
     "pattern": ["what is your name?", "what should I call you?", "name", "what to they call you?", "what's your name", "who are you", "can you tell me your name"],
-    "responces": ["I'm Kerriea", "My name is Kerriea, the assistant of Jared", "Kerriea", "I am Kerriea"]
+    "responces": ["I'm Kerriea Assistant", "My name is Kerriea Assistant, the assistant of Jared", "Kerriea Assistant", "I am Kerriea Assistant"]
     },
-    {"tag": "greetings",
-    "pattern": [],
-    "responces": []
+    {"tag": "shop",
+    "pattern": ["I'd like to buy something", "what are your products or services?", "what would you recommend", "what are you selling?"],
+    "responces": ["Kerriea offers Data Science Consultancy services, development of AI systems and use of AI and machine Learning to solve different business and real world problems."]
     },
     {"tag": "greetings",
     "pattern": [],
