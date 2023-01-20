@@ -23,8 +23,8 @@
     "pattern": ["when are you guys open?", "what are your hours", "hours of operation", "active hours", "At what time are you active?"],
     "responces": ["24/7"]
     },
-    {"tag": "greetings",
-    "pattern": [],
-    "responces": []
+    {"tag": "stocks",
+    "pattern": ["what stocks do I own?", "what are my shares?", "what companies am I investing in", "how are my shares?", "what companies have I invested in?"],
+    "responces": ["You own the following shares: Apple, Alphabet, Meta, Airbnb, Lucid, AMD and an ETF of the S&P 500 index!"]
     }
 ]}
