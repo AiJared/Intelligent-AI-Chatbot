@@ -8,8 +8,8 @@
     "responces": ["Sad to see you go: (", "Talk to you later", "Goodbye!", "Bye!"]
     },
     {"tag": "age",
-    "pattern": [],
-    "responces": []
+    "pattern": ["how old?", "how old is the business?", "age?", "age of the company?"],
+    "responces": ["21", "Twenty one years old", "21 years old", "21 years"]
     },
     {"tag": "greetings",
     "pattern": [],
