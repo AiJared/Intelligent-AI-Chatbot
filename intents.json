@@ -11,9 +11,9 @@
     "pattern": ["how old?", "how old is the business?", "age?", "age of the company?"],
     "responces": ["21", "Twenty one years old", "21 years old", "21 years"]
     },
-    {"tag": "greetings",
-    "pattern": [],
-    "responces": []
+    {"tag": "name",
+    "pattern": ["what is your name?", "what should I call you?", "name", "what to they call you?", "what's your name", "who are you", "can you tell me your name"],
+    "responces": ["I'm Kerriea", "My name is Kerriea, the assistant of Jared", "Kerriea", "I am Kerriea"]
     },
     {"tag": "greetings",
     "pattern": [],
